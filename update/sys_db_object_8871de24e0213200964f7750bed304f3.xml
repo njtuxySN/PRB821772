@@ -17,10 +17,10 @@
         <number_ref/>
         <provider_class/>
         <read_access>true</read_access>
-        <super_class display_value="Hardware" name="cmdb_ci_hardware">4688c7183c213200368b69b0aa9a1de3</super_class>
-        <sys_class_code>!8</sys_class_code>
+        <super_class display_value="Hardware" name="cmdb_ci_hardware">ed80c907dbc532002522b3d0ef961946</super_class>
+        <sys_class_code>!:</sys_class_code>
         <sys_class_name>sys_db_object</sys_class_name>
-        <sys_class_path>/!!/!2/!8</sys_class_path>
+        <sys_class_path>/!!/!2/!:</sys_class_path>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-03-13 19:29:17</sys_created_on>
         <sys_id>8871de24e0213200964f7750bed304f3</sys_id>
