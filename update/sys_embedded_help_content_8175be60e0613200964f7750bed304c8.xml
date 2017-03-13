@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_embedded_help_content">
+    <sys_embedded_help_content action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <content/>
+        <last_sync>2017-03-13 22:06:37</last_sync>
+        <modifier>normal</modifier>
+        <name>x_prb821772_table_list-normal</name>
+        <page>x_prb821772_table_list</page>
+        <product>1</product>
+        <qualifier/>
+        <snc_created>true</snc_created>
+        <sys_class_name>sys_embedded_help_content</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-03-13 22:06:37</sys_created_on>
+        <sys_id>8175be60e0613200964f7750bed304c8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_prb821772_table_list-normal</sys_name>
+        <sys_package display_value="PRB821772" source="x_prb821772">4871de24e0213200964f7750bed304f3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="PRB821772">4871de24e0213200964f7750bed304f3</sys_scope>
+        <sys_update_name>sys_embedded_help_content_8175be60e0613200964f7750bed304c8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-03-13 22:06:37</sys_updated_on>
+        <version>j</version>
+    </sys_embedded_help_content>
+    <sys_translated_text action="delete_multiple" query="documentkey=8175be60e0613200964f7750bed304c8"/>
+</record_update>
