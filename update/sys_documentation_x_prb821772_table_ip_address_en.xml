@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="ip_address" label="IP Address" language="en" table="x_prb821772_table">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>ip_address</element>
+            <help/>
+            <hint/>
+            <label>IP Address</label>
+            <language>en</language>
+            <name>x_prb821772_table</name>
+            <plural>IP Addresses</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-03-13 19:29:18</sys_created_on>
+            <sys_id>68715a64e0213200964f7750bed304ce</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>IP Address</sys_name>
+            <sys_package display_value="PRB821772" source="x_prb821772">4871de24e0213200964f7750bed304f3</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="PRB821772">4871de24e0213200964f7750bed304f3</sys_scope>
+            <sys_update_name>sys_documentation_x_prb821772_table_ip_address_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-03-13 19:29:18</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

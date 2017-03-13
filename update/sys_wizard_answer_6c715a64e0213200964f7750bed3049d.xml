@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_wizard_answer">
+    <sys_wizard_answer action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <answer>PRB821772 Table</answer>
+        <button_label/>
+        <dependent_value/>
+        <element/>
+        <name>PRB821772 Table</name>
+        <next_question/>
+        <order>100</order>
+        <payload_name/>
+        <question display_value="Base Configuration Item" name="Base Configuration Item">3c788fd43c213200368b69b0aa9a1d33</question>
+        <roles/>
+        <script/>
+        <sys_class_name>sys_wizard_answer</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-03-13 19:29:18</sys_created_on>
+        <sys_id>6c715a64e0213200964f7750bed3049d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>PRB821772 Table</sys_name>
+        <sys_package display_value="PRB821772" source="x_prb821772">4871de24e0213200964f7750bed304f3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="PRB821772">4871de24e0213200964f7750bed304f3</sys_scope>
+        <sys_update_name>sys_wizard_answer_6c715a64e0213200964f7750bed3049d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-03-13 19:29:18</sys_updated_on>
+        <table/>
+        <target_url>x_prb821772_table.do</target_url>
+        <type>1</type>
+    </sys_wizard_answer>
+</record_update>

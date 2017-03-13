@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="cmdb_ci_hardware" label="PRB821772 Table" max_length="40" name="x_prb821772_table" type="collection"/>
+</database>
